@@ -70,11 +70,8 @@ APPLICATIONS
 
 Disaster risk assessment, flood early-warning support, mitigation planning, and climate resilience studies for flood-vulnerable river basins.
 
-NOTES
+NOTE ON OUTPUTS
 
-- Risk thresholds (elevation, rainfall, flow accumulation) are tuned for the Brahmaputra Valley's specific hydrology and may need adjustment for other basins.
-- This is an educational/training project; thresholds are illustrative and should be refined with ground-truth validation before operational use.
+This notebook uses interactive `geemap` map widgets, which GitHub's viewer cannot render (it only supports static text/images). The code and analysis are fully intact — just open the notebook in [Google Colab](https://colab.research.google.com/) to view the live maps.
 
-LICENSE
 
-Specify your license here (e.g., MIT).
